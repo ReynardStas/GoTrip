@@ -308,7 +308,7 @@ flex-grow: 1;
 /* Customers */
 
 .customers {
-    padding: 100px 0 133px;
+    padding: 100px 133px;
 }
 
 .customers__row {
