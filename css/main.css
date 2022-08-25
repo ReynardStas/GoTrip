@@ -213,7 +213,7 @@ flex-grow: 1;
 
 /* Destinations */
 .destinations {
-    padding: 96px 0 100px;
+    padding: 0 96px 100px;
     overflow-x: hidden;
 }
 
@@ -777,7 +777,7 @@ flex-grow: 1;
     }
 
     .destinations {
-        padding: 40px 0 50px;
+        padding: 0 40px 50px;
     }
 
     .destinations__row {
